@@ -1,2 +1,2 @@
 # simple-java-programs
-Writing some basic java program.
+Here to just write some simple java programs.
